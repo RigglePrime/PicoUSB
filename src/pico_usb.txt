@@ -2,7 +2,7 @@
 ######################################################################################
 ###  Commands:                                                                     ###
 ###  delay      - delays the execution for the number of seconds. This also        ###
-###               suports also floats, example: delay 0.8                          ###
+###               supports numbers with decimal points, example: delay 0.8         ###
 ###  press      - presses one or more buttons once, all together . For example:    ###
 ###               to press enter, use 'press enter'                                ###
 ###               to select all, use 'press control + a'.                          ###
