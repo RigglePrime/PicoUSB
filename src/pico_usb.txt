@@ -43,9 +43,11 @@
 layout US
 
 delay 1
-press(gui + d) # minimizes all windows
+# minimizes all windows
+press gui + d
 delay 1
-press gui + r # Run window
+# Run window
+press gui + r
 delay 2
 write notepad
 press enter
